@@ -1,8 +1,8 @@
 源码阅读计划
 
 - [四月源码阅读计划](#packages)
-	- [pify](#pify)
-	- [del](#del)
+	- [pify](pify)
+	- [del](del)
 
 
 
